@@ -16,7 +16,7 @@
         android:layout_marginTop="164dp"
         android:gravity="end"
         android:padding="16dp"
-        android:text="0"
+        android:text="@string/_0ze"
         android:textColor="@android:color/black"
         android:textSize="48sp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -37,7 +37,7 @@
             android:id="@+id/btn_mc"
             android:layout_width="0dp"
             android:layout_height="0dp"
-            android:text="MC"
+            android:text="@string/mc"
             app:layout_columnWeight="1"
             app:layout_gravity="fill"
             app:layout_rowWeight="1" />
@@ -46,7 +46,7 @@
             android:id="@+id/btn_mr"
             android:layout_width="0dp"
             android:layout_height="0dp"
-            android:text="MR"
+            android:text="@string/mr"
             app:layout_columnWeight="1"
             app:layout_gravity="fill"
             app:layout_rowWeight="1" />
@@ -55,7 +55,7 @@
             android:id="@+id/btn_ms"
             android:layout_width="0dp"
             android:layout_height="0dp"
-            android:text="MS"
+            android:text="@string/ms"
             app:layout_columnWeight="1"
             app:layout_gravity="fill"
             app:layout_rowWeight="1" />
@@ -64,7 +64,7 @@
             android:id="@+id/btn_m_plus"
             android:layout_width="0dp"
             android:layout_height="0dp"
-            android:text="M+"
+            android:text="@string/m"
             app:layout_columnWeight="1"
             app:layout_gravity="fill"
             app:layout_rowWeight="1" />
@@ -73,7 +73,7 @@
             android:id="@+id/btn_m_minus"
             android:layout_width="0dp"
             android:layout_height="0dp"
-            android:text="M-"
+            android:text="@string/m_minus"
             app:layout_columnWeight="1"
             app:layout_gravity="fill"
             app:layout_rowWeight="1" />
@@ -82,7 +82,7 @@
             android:id="@+id/btn_backspace"
             android:layout_width="0dp"
             android:layout_height="0dp"
-            android:text="←"
+            android:text="@string/arrow"
             app:layout_columnWeight="1"
             app:layout_gravity="fill"
             app:layout_rowWeight="1" />
@@ -91,7 +91,7 @@
             android:id="@+id/btn_ce"
             android:layout_width="0dp"
             android:layout_height="0dp"
-            android:text="CE"
+            android:text="@string/ce"
             app:layout_columnWeight="1"
             app:layout_gravity="fill"
             app:layout_rowWeight="1" />
@@ -100,7 +100,7 @@
             android:id="@+id/btn_c"
             android:layout_width="0dp"
             android:layout_height="0dp"
-            android:text="C"
+            android:text="@string/c"
             app:layout_columnWeight="1"
             app:layout_gravity="fill"
             app:layout_rowWeight="1" />
@@ -109,7 +109,7 @@
             android:id="@+id/btn_plus_minus"
             android:layout_width="0dp"
             android:layout_height="0dp"
-            android:text="±"
+            android:text="@string/plius"
             app:layout_columnWeight="1"
             app:layout_gravity="fill"
             app:layout_rowWeight="1" />
@@ -118,7 +118,7 @@
             android:id="@+id/btn_root"
             android:layout_width="0dp"
             android:layout_height="0dp"
-            android:text="√"
+            android:text="@string/root"
             app:layout_columnWeight="1"
             app:layout_gravity="fill"
             app:layout_rowWeight="1" />
@@ -127,7 +127,7 @@
             android:id="@+id/btn_7"
             android:layout_width="0dp"
             android:layout_height="0dp"
-            android:text="7"
+            android:text="@string/_7"
             app:layout_columnWeight="1"
             app:layout_gravity="fill"
             app:layout_rowWeight="1" />
@@ -136,7 +136,7 @@
             android:id="@+id/btn_8"
             android:layout_width="0dp"
             android:layout_height="0dp"
-            android:text="8"
+            android:text="@string/_8"
             app:layout_columnWeight="1"
             app:layout_gravity="fill"
             app:layout_rowWeight="1" />
@@ -145,7 +145,7 @@
             android:id="@+id/btn_9"
             android:layout_width="0dp"
             android:layout_height="0dp"
-            android:text="9"
+            android:text="@string/_9"
             app:layout_columnWeight="1"
             app:layout_gravity="fill"
             app:layout_rowWeight="1" />
@@ -154,7 +154,7 @@
             android:id="@+id/btn_divide"
             android:layout_width="0dp"
             android:layout_height="0dp"
-            android:text="/"
+            android:text="@string/divide"
             app:layout_columnWeight="1"
             app:layout_gravity="fill"
             app:layout_rowWeight="1" />
@@ -163,7 +163,7 @@
             android:id="@+id/btn_percent"
             android:layout_width="0dp"
             android:layout_height="0dp"
-            android:text="%"
+            android:text="@string/percent"
             app:layout_columnWeight="1"
             app:layout_gravity="fill"
             app:layout_rowWeight="1" />
@@ -172,7 +172,7 @@
             android:id="@+id/btn_4"
             android:layout_width="0dp"
             android:layout_height="0dp"
-            android:text="4"
+            android:text="@string/_4"
             app:layout_columnWeight="1"
             app:layout_gravity="fill"
             app:layout_rowWeight="1" />
@@ -181,7 +181,7 @@
             android:id="@+id/btn_5"
             android:layout_width="0dp"
             android:layout_height="0dp"
-            android:text="5"
+            android:text="@string/_5"
             app:layout_columnWeight="1"
             app:layout_gravity="fill"
             app:layout_rowWeight="1" />
@@ -190,7 +190,7 @@
             android:id="@+id/btn_6"
             android:layout_width="0dp"
             android:layout_height="0dp"
-            android:text="6"
+            android:text="@string/_6"
             app:layout_columnWeight="1"
             app:layout_gravity="fill"
             app:layout_rowWeight="1" />
@@ -199,7 +199,7 @@
             android:id="@+id/btn_multiply"
             android:layout_width="0dp"
             android:layout_height="0dp"
-            android:text="*"
+            android:text="@string/multiply"
             app:layout_columnWeight="1"
             app:layout_gravity="fill"
             app:layout_rowWeight="1" />
@@ -208,7 +208,7 @@
             android:id="@+id/btn_fraction"
             android:layout_width="0dp"
             android:layout_height="0dp"
-            android:text="1/x"
+            android:text="@string/fraction"
             app:layout_columnWeight="1"
             app:layout_gravity="fill"
             app:layout_rowWeight="1" />
@@ -217,7 +217,7 @@
             android:id="@+id/btn_1"
             android:layout_width="0dp"
             android:layout_height="0dp"
-            android:text="1"
+            android:text="@string/_1"
             app:layout_columnWeight="1"
             app:layout_gravity="fill"
             app:layout_rowWeight="1" />
@@ -226,7 +226,7 @@
             android:id="@+id/btn_2"
             android:layout_width="0dp"
             android:layout_height="0dp"
-            android:text="2"
+            android:text="@string/_2"
             app:layout_columnWeight="1"
             app:layout_gravity="fill"
             app:layout_rowWeight="1" />
@@ -235,7 +235,7 @@
             android:id="@+id/btn_3"
             android:layout_width="0dp"
             android:layout_height="0dp"
-            android:text="3"
+            android:text="@string/_3"
             app:layout_columnWeight="1"
             app:layout_gravity="fill"
             app:layout_rowWeight="1" />
@@ -244,7 +244,7 @@
             android:id="@+id/btn_minus"
             android:layout_width="0dp"
             android:layout_height="0dp"
-            android:text="-"
+            android:text="@string/minus"
             app:layout_columnWeight="1"
             app:layout_gravity="fill"
             app:layout_rowWeight="1" />
@@ -253,7 +253,7 @@
             android:id="@+id/btn_equal"
             android:layout_width="0dp"
             android:layout_height="0dp"
-            android:text="="
+            android:text="@string/equal"
             app:layout_columnWeight="1"
             app:layout_gravity="fill"
             app:layout_rowSpan="2"
@@ -263,7 +263,7 @@
             android:id="@+id/btn_0"
             android:layout_width="0dp"
             android:layout_height="0dp"
-            android:text="0"
+            android:text="@string/_0z"
             app:layout_columnSpan="2"
             app:layout_columnWeight="1"
             app:layout_gravity="fill"
@@ -273,7 +273,7 @@
             android:id="@+id/btn_dot"
             android:layout_width="0dp"
             android:layout_height="0dp"
-            android:text="."
+            android:text="@string/dot"
             app:layout_columnWeight="1"
             app:layout_gravity="fill"
             app:layout_rowWeight="1" />
@@ -282,7 +282,7 @@
             android:id="@+id/btn_plus"
             android:layout_width="0dp"
             android:layout_height="0dp"
-            android:text="+"
+            android:text="@string/pluss"
             app:layout_columnWeight="1"
             app:layout_gravity="fill"
             app:layout_rowWeight="1" />
